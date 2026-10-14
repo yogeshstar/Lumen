@@ -1,2 +1,2 @@
-# Lumin
-Lumin social media app
+# Lumen
+Lumen social media app
